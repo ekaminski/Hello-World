@@ -1,0 +1,18 @@
+{
+    "contents" : "hello <- \"Hello World\"\nprint(paste(hello))\n",
+    "created" : 1452442784912.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "485034771",
+    "id" : "D989C836",
+    "lastKnownWriteTime" : 1452454387,
+    "path" : "~/R/Hello World/Hello.R",
+    "project_path" : "Hello.R",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : true,
+    "type" : "r_source"
+}
