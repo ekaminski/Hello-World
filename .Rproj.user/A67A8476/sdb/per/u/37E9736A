@@ -1,0 +1,18 @@
+{
+    "contents" : "RCMD hello\ncat hello.Rout\n",
+    "created" : 1452460710414.000,
+    "dirty" : true,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "3770054869",
+    "id" : "37E9736A",
+    "lastKnownWriteTime" : 32088624092086304,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "type" : "r_source"
+}
